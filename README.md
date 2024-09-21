@@ -6,9 +6,11 @@
 
 To create your own content providers to get contacts details using Android Studio.
 
+
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Latest Version)
+
 
 ## ALGORITHM:
 
@@ -25,6 +27,7 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
+
 
 ## PROGRAM:
 ```
